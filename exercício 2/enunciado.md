@@ -2,5 +2,4 @@
  As fórmulas são as seguintes:
 
 Área = π * r²
-
 Perímetro = 2 * π * r
